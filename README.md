@@ -15,4 +15,4 @@ Each project folder includes:
 - Reflection or summary
 
 ## 🚀 Purpose
-To demonstrate academic growth, problem-solving, and marketing/business skills.
+To demonstrate academic growth, problem-solving, and marketing/business skills. 
